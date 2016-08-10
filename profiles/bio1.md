@@ -1,18 +1,3 @@
-# daCwa_project
-
-Data for exploring the Ismāʿīlī daʿwaŧ 
-
-## Structure:
-
-1. Profiles: biographical reports on people
-	1. Files should have URIs as their names.
-	2. Run betaCode script to transliterate and convert into Arabic
-
-
-## Bio record structure
-
-```
-
 URI: 0597IbnJawzi
 
 SHUHRA: Ibn al-Ǧawzī [[ابن الجوزي]]
@@ -27,6 +12,3 @@ BORN: 510AH
 DIED: 597AH
 
 BIO: Free running narrative... 
-
-
-```
