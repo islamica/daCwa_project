@@ -28,5 +28,10 @@ DIED: 597AH
 
 BIO: Free running narrative... 
 
-
 ```
+
+## BetaCode Note
+
+Explanations and scheme (http://maximromanov.github.io/2015/02-07.html)[http://maximromanov.github.io/2015/02-07.html]
+
+Things that should be transliterated and converted into Arabic must be types between `@@ and @@`, for example @@Ibn al-Jawz_i@@, which after conversion will become `Ibn al-Ǧawzī [[ابن الجوزي]]`.
