@@ -105,6 +105,8 @@ def betacodeToArabic(text):
 
     # fix irrelevant variables for Arabic script
     text = text.lower()
+    text = re.sub("īy", "iyy", text)
+    text = re.sub("ūw", "uww", text)
     text = re.sub("ủ", "u", text)
     text = re.sub("ỉ", "i", text)
     text = re.sub("ả", "a", text)
