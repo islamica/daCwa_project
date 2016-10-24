@@ -126,6 +126,8 @@ def betacodeToArabic(text):
     text  = re.sub(",", "،", text) # Convert commas
 
     # initial HAMZAs
+    
+    text = re.sub(r"ʾaʾi", r"أَئِ", text)
 ##    text = re.sub("\\bʾ?a", "أَ", text)
 ##    text = re.sub("\\bʾ?i", "إِ", text)
 ##    text = re.sub("\\bʾ?u", "أُ", text)
@@ -183,6 +185,7 @@ def betacodeToArabic(text):
     text = re.sub(r'āʾa\b', r"اءَ", text)
     
     # medial HAMZAs
+    
     text = re.sub(r"aʾū", r"َؤُو", text)
     text = re.sub(r"uʾa", r"ُؤَ", text)
     text = re.sub(r"uʾi", r"ُئِ", text)
