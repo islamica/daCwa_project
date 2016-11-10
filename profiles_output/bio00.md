@@ -11,4 +11,4 @@ KUNYA: ʾAbū Ḳāsimỉȵ [[أبو قاسم]]
 BORN: 510AH
 DIED: 597AH
 
-BIO: al-Ǧannābīyủ [[الجنابي]]; al-numūwủ [[النمو]]
+BIO: free-running text #source

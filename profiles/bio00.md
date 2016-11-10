@@ -11,4 +11,4 @@ KUNYA: @@'Ab_u Q_asim?i*n@@
 BORN: 510AH
 DIED: 597AH
 
-BIO: @@al-Jann_ab_iy?u@@; @@al-num_uw?u@@
+BIO: free-running text #source
