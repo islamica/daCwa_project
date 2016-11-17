@@ -1,4 +1,4 @@
-URI: ????AhmadBKhalaf
+URI: 0285AhmadBKhalaf
 
 SHUHRA: ʾAḥmadủ bnủ Ḫalafỉȵ [[أحمد بن خلف]]
 ISM: ʾAḥmadủ [[أحمد]]

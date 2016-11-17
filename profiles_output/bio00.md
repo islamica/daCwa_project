@@ -8,7 +8,7 @@ LAQAB: ʾAbū al-Faraǧỉ [[أبو الفرج]], Ǧamālủ al-Dīnỉ [[جما
 NISBA: al-Baġdādiyyủ [[البغدادي]], al-Wāʿiẓủ [[الواعظ]], al-Ḥanbaliyyủ [[الحنبلي]]
 KUNYA: ʾAbū Ḳāsimỉȵ [[أبو قاسم]]
 
-BORN: 510AH
-DIED: 597AH
+BORN: unknown
+DIED: unknown
 
 BIO: free-running text #source
