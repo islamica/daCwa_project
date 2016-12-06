@@ -5,7 +5,7 @@ ISM:
 NASAB1: 
 NASAB2: 
 LAQAB: ʾAbū Ḥātimỉȵ [[أبو حاتم]]
-NISBA: al-Rāzīyủ [[الرازي]], al-Warsanānīyủ [[الورسناني]]
+NISBA: al-Rāzīyủ [[الرازي]], al-Warsanānīyủ [[الورسناني]], al-Kilābīyủ [[الكلابي]]
 KUNYA: 
 
 BORN: unknown

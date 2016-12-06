@@ -5,7 +5,7 @@ ISM:
 NASAB1: 
 NASAB2: 
 LAQAB: @@'Ab_u *H_atim?i*n@@
-NISBA: @@al-R_az_iy?u@@, @@al-Warsan_an_iy?u@@
+NISBA: @@al-R_az_iy?u@@, @@al-Warsan_an_iy?u@@, @@al-Kil_ab_iy?u@@
 KUNYA: 
 
 BORN: unknown
