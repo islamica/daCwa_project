@@ -1,7 +1,7 @@
 URI: 0295Ghiyath
 
-SHUHRA: Ġiyāṯủ [[غياث]]
-ISM: Ġiyāṯủ [[غياث]]
+SHUHRA: Ġiyāṯ [[غياث]]
+ISM: Ġiyāṯ [[غياث]]
 NASAB1: 
 NASAB2: 
 LAQAB: 
@@ -11,4 +11,4 @@ KUNYA:
 BORN: unknown
 DIED: unknown
 
-BIO: Ġiyāṯủ [[غياث]] hails from the village of Kulīnủ [[كلين]] where al-daʿwaŧủ [[الدعوة]] of al-ʾIsmāʿīlīyūnả [[الإسماعيليون]] in North-West ʾĪrānủ [[إيران]] starts and where ʾAḥmadủ bnủ Ḫalafỉȵ [[أحمد بن خلف]] successfully converts him. He is a man accomplished in the study of al-ʾadabủ [[الأدب]] and writes a book, called Kitābủ al-Bayānỉ [[كتاب البيان]], a dictionary of religious technical terms. Specifically ʾismāʿīlīyủȵ [[إسماعيلي]] features are absent so that the readers wouldn’t notice its author’s creed at the first glance. He holds disputations with sunnīyủȵ [[سني]] theologians and his fame reaches as far as Ḳummủ [[قم]] and Ḳāšānủ [[قاشان]]. After ʿAbdủ Allãhỉ al-Zaʿfarānīyủ [[عبد الله الزعفراني]] rouses the inhabitants of Rayyủ [[ري]] against him he has to flee to Ḫurāsānủ [[خراسان]]. There, in Marwủ al-Rūḏỉ [[مرو الروذ]] he meets al-Ḥusaynủ bnủ ʿAlīyỉȵ al-Marwả-al-Rūḏīyủ [[الحسين بن علي المروالروذي]], who is an ʾamīrủȵ [[أمير]]. After appointing a lieutenant in Marwủ al-Rūḏỉ [[مرو الروذ]] he returns to Rayyủ [[ري]] and there takes ʾAbū Ḥātimỉȵ al-Rāzīyủ [[أبو حاتم الرازي]] as his lieutenant. After the date which he foretold for the coming of al-Mahdīyủ [[المهدي]] passed by and his persecution continues Niẓāmủ al-Mulkỉ [[نظام الملك]] says that he goes off, discouraged, and is not seen any more. #Stern
+BIO: Ġiyāṯ [[غياث]] hails from the village of Kulīn [[كلين]] close to al-Rayy [[الري]] [U:RAYY_515E356N_S] where al-daʿwaŧ [[الدعوة]] of al-ʾIsmāʿīlīyūn [[الإسماعيليون]] in North-West ʾĪrān [[إيران]] starts and where ʾAḥmad bn Ḫalaf [[أحمد بن خلف]] successfully converts him. He is a man accomplished in the study of al-ʾadab [[الأدب]] and writes a book, called Kitāb al-Bayān [[كتاب البيان]], a dictionary of religious technical terms. Specifically ʾismāʿīlī [[إسماعيلي]] features are absent so that the readers wouldn’t notice its author’s creed at the first glance. He holds disputations with sunnī [[سني]] theologians and his fame reaches as far as Ḳumm [[قم]] [U:QUMM_509E346N_S] and Ḳāšān [[قاشان]] [U:QASHAN_515E339N_S]. After ʿAbd Allãh al-Zaʿfarānī [[عبد الله الزعفراني]] rouses the inhabitants of al-Rayy [[الري]] [U:RAYY_515E356N_S] against him he has to flee to Ḫurāsān [[خراسان]]. There, in Marw al-Rūḏ [[مرو الروذ]] [U:MARWRUDH_633E355N_S] he meets al-Ḥusayn bn ʿAlī al-Marwả-al-Rūḏī [[الحسين بن علي المروالروذي]], who is an ʾamīr [[أمير]]. After appointing a lieutenant in Marw al-Rūḏ [[مرو الروذ]] [U:MARWRUDH_633E355N_S] he returns to al-Rayy [[الري]] [U:RAYY_515E356N_S] and there takes ʾAbū Ḥātim al-Rāzī [[أبو حاتم الرازي]] as his lieutenant. After the date for which he foretold for the coming of al-Mahdī [[المهدي]] passed by and his persecution continues Niẓām al-Mulk [[نظام الملك]] says that he goes off, discouraged, and is not seen any more. [@stern_early_1960]

@@ -1,8 +1,8 @@
 URI: 0330IbnHamdan
 
-SHUHRA: @@Ibn?u *Hamd_an?i*n@@
+SHUHRA: @@Ibn *Hamd_an@@
 ISM: 
-NASAB1: @@Ibn?u *Hamd_an?i*n@@
+NASAB1: @@Ibn *Hamd_an@@
 NASAB2: 
 LAQAB: 
 NISBA: 
@@ -11,4 +11,4 @@ KUNYA:
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

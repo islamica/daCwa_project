@@ -1,14 +1,14 @@
 URI: 0320AbuBakrBHammad
 
-SHUHRA: ʾAbū Bakrỉȵ bnủ Ḥammādỉȵ [[أبو بكر بن حماد]]
+SHUHRA: ʾAbū Bakr bn Ḥammād [[أبو بكر بن حماد]]
 ISM: 
-NASAB1: Ibnủ Ḥammādỉȵ [[ابن حماد]]
+NASAB1: Ibn Ḥammād [[ابن حماد]]
 NASAB2: 
-LAQAB: ʾAbū Bakrỉȵ [[أبو بكر]]
-NISBA: al-Mawṣilīyủ [[الموصلي]]
+LAQAB: ʾAbū Bakr [[أبو بكر]]
+NISBA: al-Mawṣilī [[الموصلي]]
 KUNYA: 
 
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

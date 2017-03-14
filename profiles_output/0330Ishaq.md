@@ -1,7 +1,7 @@
 URI: 0330Ishaq
 
-SHUHRA: ʾIsḥāḳủ [[إسحاق]]
-ISM: ʾIsḥāḳủ [[إسحاق]]
+SHUHRA: ʾIsḥāḳ [[إسحاق]]
+ISM: ʾIsḥāḳ [[إسحاق]]
 NASAB1: 
 NASAB2: 
 LAQAB: 
@@ -11,4 +11,4 @@ KUNYA:
 BORN: unknown
 DIED: unknown
 
-BIO: Together with ʿAbdủ al-Malikỉ [[عبد الملك]] he is one of the successors of ʾAbū Ḥātimỉȵ al-Rāzīyủ [[أبو حاتم الرازي]] in Rayyủ [[ري]] after he has to flee in 322AH. He might be the same person as 0330AbuYaqub and 0360AbuYaqubSijistani. #Stern
+BIO: Together with ʿAbd al-Malik [[عبد الملك]] he is one of the successors of ʾAbū Ḥātim al-Rāzī [[أبو حاتم الرازي]] in al-Rayy [[الري]] after he has to flee in 322AH. He might be the same person as 0330AbuYaqub and 0360AbuYaqubSijistani. [@stern_early_1960]

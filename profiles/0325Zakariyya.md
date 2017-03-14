@@ -1,7 +1,7 @@
 URI: 0325Zakariyya
 
-SHUHRA: @@Zakar_iy_a'?u@@
-ISM: @@Zakar_iy_a'?u@@
+SHUHRA: @@Zakar_iy_a'@@
+ISM: @@Zakar_iy_a'@@
 NASAB1: 
 NASAB2: 
 LAQAB: 
@@ -11,4 +11,4 @@ KUNYA:
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

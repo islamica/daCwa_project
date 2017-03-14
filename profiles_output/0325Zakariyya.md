@@ -1,7 +1,7 @@
 URI: 0325Zakariyya
 
-SHUHRA: Zakarīyāʾủ [[زكرياء]]
-ISM: Zakarīyāʾủ [[زكرياء]]
+SHUHRA: Zakarīyāʾ [[زكرياء]]
+ISM: Zakarīyāʾ [[زكرياء]]
 NASAB1: 
 NASAB2: 
 LAQAB: 
@@ -11,4 +11,4 @@ KUNYA:
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

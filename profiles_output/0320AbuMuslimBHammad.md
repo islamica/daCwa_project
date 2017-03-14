@@ -1,14 +1,14 @@
 URI: 0320AbuMuslimBHammad
 
-SHUHRA: ʾAbū Muslimỉȵ bnủ Ḥammādỉȵ [[أبو مسلم بن حماد]]
+SHUHRA: ʾAbū Muslim bn Ḥammād [[أبو مسلم بن حماد]]
 ISM: 
-NASAB1: Ibnủ Ḥammādỉȵ [[ابن حماد]]
+NASAB1: Ibn Ḥammād [[ابن حماد]]
 NASAB2: 
-LAQAB: ʾAbū Muslimỉȵ [[أبو مسلم]]
-NISBA: al-Mawṣilīyủ [[الموصلي]]
+LAQAB: ʾAbū Muslim [[أبو مسلم]]
+NISBA: al-Mawṣilī [[الموصلي]]
 KUNYA: 
 
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]
