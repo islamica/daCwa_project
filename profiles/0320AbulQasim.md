@@ -1,14 +1,14 @@
 URI: 0320AbulQasim
 
-SHUHRA: @@'Ab_u al-Q_asim?i@@
+SHUHRA: @@'Ab_u al-Q_asim@@
 ISM: @@`_Is/a@@
-NASAB1: @@Ibn?u M_us/a@@
+NASAB1: @@Ibn M_us/a@@
 NASAB2: 
-LAQAB: @@'Ab_u al-Q_asim?i@@
+LAQAB: @@'Ab_u al-Q_asim@@
 NISBA: 
 KUNYA: 
 
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

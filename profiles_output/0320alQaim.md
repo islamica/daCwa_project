@@ -1,14 +1,14 @@
 URI: 0320alQaim
 
-SHUHRA: al-Ḳāʾimủ [[القائم]]
+SHUHRA: al-Ḳāʾim [[القائم]]
 ISM: 
 NASAB1: 
 NASAB2: 
-LAQAB: al-Ḳāʾimủ [[القائم]]
+LAQAB: al-Ḳāʾim [[القائم]]
 NISBA: 
 KUNYA: 
 
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

@@ -1,14 +1,14 @@
 URI: 0300HusaynMarwarrudhi
 
-SHUHRA: al-Ḥusaynủ al-Marwả-al-Rūḏīyủ [[الحسين المروالروذي]]
-ISM: al-Ḥusaynủ [[الحسين]]
-NASAB1: Ibnủ ʿAlīyỉȵ [[ابن علي]]
+SHUHRA: al-Ḥusayn al-Marwả-al-Rūḏī [[الحسين المروالروذي]]
+ISM: al-Ḥusayn [[الحسين]]
+NASAB1: Ibn ʿAlī [[ابن علي]]
 NASAB2: 
 LAQAB: 
-NISBA: al-Marwả-al-Rūḏīyủ [[المروالروذي]], al-Marwazīyủ [[المروزي]]
+NISBA: al-Marwả-al-Rūḏī [[المروالروذي]], al-Marwazī [[المروزي]]
 KUNYA: 
 
 BORN: unknown
 DIED: unknown
 
-BIO: He is ʾamīrủȵ [[أمير]] in Marwủ al-Rūḏỉ [[مرو الروذ]] and is converted by Ġiyāṯủ [[غياث]]. He possesses great power in Ḫurāsānủ [[خراسان]], so when he adopts al-ʾIsmāʿīlīyaŧủ [[الإسماعيلية]], many from the population of some of the districts of Ḫurāsānủ [[خراسان]] follow him. #Stern
+BIO: He is ʾamīr [[أمير]] in Marw al-Rūḏ [[مرو الروذ]] and is converted by Ġiyāṯ [[غياث]]. He possesses great power in Ḫurāsān [[خراسان]], so when he adopts al-ʾIsmāʿīlīyaŧ [[الإسماعيلية]], many from the population of some of the districts of Ḫurāsān [[خراسان]] follow him. [@stern_early_1960]

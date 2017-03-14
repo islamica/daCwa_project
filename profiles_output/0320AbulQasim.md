@@ -1,14 +1,14 @@
 URI: 0320AbulQasim
 
-SHUHRA: ʾAbū al-Ḳāsimỉ [[أبو القاسم]]
+SHUHRA: ʾAbū al-Ḳāsim [[أبو القاسم]]
 ISM: ʿĪsá [[عيسى]]
-NASAB1: Ibnủ Mūsá [[ابن موسى]]
+NASAB1: Ibn Mūsá [[ابن موسى]]
 NASAB2: 
-LAQAB: ʾAbū al-Ḳāsimỉ [[أبو القاسم]]
+LAQAB: ʾAbū al-Ḳāsim [[أبو القاسم]]
 NISBA: 
 KUNYA: 
 
 BORN: unknown
 DIED: unknown
 
-BIO: free-running text #Stern
+BIO: free-running text [@stern_early_1960]

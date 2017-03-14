@@ -1,14 +1,14 @@
 URI: 0300AbuJafar
 
-SHUHRA: ʾAbū Ǧaʿfarả [[أبو جعفر]]
+SHUHRA: ʾAbū Ǧaʿfar [[أبو جعفر]]
 ISM: 
 NASAB1: 
 NASAB2: 
-LAQAB: al-Kabīrủ [[الكبير]]
+LAQAB: al-Kabīr [[الكبير]]
 NISBA: 
-KUNYA: ʾAbū Ǧaʿfarả [[أبو جعفر]]
+KUNYA: ʾAbū Ǧaʿfar [[أبو جعفر]]
 
 BORN: unknown
 DIED: unknown
 
-BIO: He is a descendant of Ḫalafủȵ [[خلف]] and after Ġiyāṯủ [[غياث]] leaves Rayyủ [[ري]] he is asked to lead al-Ǧazīraŧủ [[الجزيرة]]. When he is afflicted by melancholy he appoints ʾAbū Ḥātimỉȵ al-Rāzīyủ [[أبو حاتم الرازي]] as his lieutenant, however, when he recovers ʾAbū Ḥātimỉȵ al-Rāzīyủ [[أبو حاتم الرازي]] refuses to give up his office. #Stern
+BIO: He is a descendant of Ḫalaf [[خلف]] and after Ġiyāṯ [[غياث]] leaves al-Rayy [[الري]] he is asked to lead al-Ǧazīraŧ [[الجزيرة]]. When he is afflicted by melancholy he appoints ʾAbū Ḥātim al-Rāzī [[أبو حاتم الرازي]] as his lieutenant, however, when he recovers ʾAbū Ḥātim? al-Rāzī [[أبو حاتم? الرازي]] refuses to give up his office. [@stern_early_1960]
